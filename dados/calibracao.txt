@@ -1,0 +1,34 @@
+# Medidas feitas com a presenca do ima ao redor
+# do smartphone. Os lados estao indocados com 
+# E (esquerdo), T (topo), D (direito) e B (base).
+# O eixo X aponta para o topo, o eixo Y aponta para
+# a direita e o eixo z aponta para cima.
+
+Cf Lado X(cm) Y(cm)
+0 E 0 0
+1 E 0 2
+2 E 0 4
+3 E 0 6
+4 E 0 8
+5 E 0 9
+6 E 0 10
+7 E 0 11
+8 E 0 12
+9 E 0 13
+10 E 0 14
+11 T 0 14.5
+12 T 1 14.5
+13 T 2 14.5
+14 T 3 14.5
+15 T 4 14.5
+16 T 5 14.5
+17 T 6 14.5
+18 T 7 14.5
+19 D 7.5 14.5
+20 D 7.5 12.5
+21 D 7.5 10.5
+22 D 7.5 8.5
+23 D 7.5 5.5
+24 D 7.5 2.5
+25 B 2 0
+26 B 5 0
